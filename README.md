@@ -28,5 +28,5 @@ To build practical software solutions and grow into a professional software engi
 - Preparing for entry-level software development roles
 
 ### Connect With Me
-- LinkedIn: linkedin.com/in/wisdom-oviemuno
+- LinkedIn: www.linkedin.com/in/wisdom-oviemuno
 - Email: wisdomovieajiri@outlook.com
